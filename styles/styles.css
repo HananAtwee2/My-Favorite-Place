@@ -17,3 +17,9 @@ header,footer{
 h1, h2, h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 15px;
+  }
